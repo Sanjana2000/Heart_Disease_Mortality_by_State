@@ -2,6 +2,7 @@
 What factors – if any – contribute to disparities in rates of heart disease mortality between U.S. states?
 
 ## Contributors
+- Sanjana Islam -- (@sanjana2000)
 - Hany Dief -- (@hanydief)
 - Katie Djahan -- (@katiedjahan)
 - Alejandro Gutierrez -- (@alejfxguti)
